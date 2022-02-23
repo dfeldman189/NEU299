@@ -1,0 +1,870 @@
+StudentID,gender,height,religion,major,salary
+661280,Female,181,Catholic,Environmental Sciences,39403
+539383,Female,169,Other,Economics and Finance,53800
+288632,Male,181,Other,Mathematics and Statistics,44729
+866896,Male,178,Catholic,Environmental Sciences,44423
+957099,Male,189,Other,Mathematics and Statistics,43324
+393717,Male,183,Other,Political Science,18571
+728029,Female,169,Other,Political Science,27893
+434840,Female,162,Other,Social Sciences,31219
+147318,Male,181,Protestant,Economics and Finance,65776
+791265,Female,157,Protestant,Economics and Finance,47683
+546863,Female,176,Protestant,Biology,30909
+950895,Male,187,Other,Political Science,52103
+343331,Male,171,Protestant,Economics and Finance,64708
+198362,Male,172,Other,Biology,44483
+654710,Male,184,Other,Economics and Finance,51367
+543466,Male,174,Protestant,Economics and Finance,51568
+766664,Female,177,Catholic,Environmental Sciences,34212
+678841,Male,170,Catholic,Political Science,33260
+593016,Male,185,Catholic,Environmental Sciences,42665
+363256,Female,159,Orthodox,Political Science,28888
+607721,Male,182,Catholic,Mathematics and Statistics,39612
+731560,Male,175,Other,Economics and Finance,50206
+415647,Male,187,Catholic,Economics and Finance,61024
+415149,Female,173,Other,Biology,39301
+572624,Female,177,Protestant,Economics and Finance,33300
+362835,Male,184,Catholic,Environmental Sciences,34601
+287535,Female,151,Protestant,Biology,43022
+518145,Male,184,Protestant,Mathematics and Statistics,40343
+139052,Male,162,Protestant,Social Sciences,34318
+422951,Female,171,Protestant,Political Science,32155
+868569,Male,179,Catholic,Economics and Finance,50076
+613201,Male,171,Orthodox,Economics and Finance,49556
+449891,Male,179,Other,Political Science,26973
+253803,Male,170,Other,Environmental Sciences,38513
+896301,Male,189,Muslim,Biology,56016
+527540,Male,168,Catholic,Economics and Finance,43516
+696262,Male,197,Catholic,Political Science,39443
+132623,Female,159,Orthodox,Environmental Sciences,29022
+957161,Male,182,Other,Biology,39958
+118502,Female,157,Other,Political Science,36911
+587257,Male,182,Catholic,Mathematics and Statistics,50087
+810585,Male,181,Muslim,Mathematics and Statistics,56301
+257766,Male,191,Other,Economics and Finance,53418
+529799,Female,168,Catholic,Mathematics and Statistics,41445
+585253,Female,145,Catholic,Mathematics and Statistics,31908
+299694,Male,192,Other,Mathematics and Statistics,56209
+177513,Male,174,Protestant,Environmental Sciences,41670
+120107,Male,182,Other,Social Sciences,38816
+733312,Male,181,Other,Social Sciences,44517
+672001,Female,156,Other,Biology,45042
+870854,Female,168,Catholic,Biology,41728
+456353,Female,173,Catholic,Economics and Finance,53566
+952558,Male,178,Protestant,Biology,50164
+415197,Male,172,Other,Economics and Finance,41556
+565624,Male,183,Other,Environmental Sciences,30276
+564694,Female,163,Muslim,Social Sciences,23717
+538530,Male,180,Catholic,Social Sciences,39758
+944417,Female,153,Catholic,Environmental Sciences,26731
+480022,Female,164,Catholic,Mathematics and Statistics,40958
+475771,Male,162,Other,Economics and Finance,52582
+605051,Female,168,Other,Biology,47211
+350522,Male,176,Catholic,Biology,43496
+215559,Male,181,Protestant,Environmental Sciences,41394
+403855,Female,156,Other,Environmental Sciences,27506
+775592,Male,195,Other,Political Science,34117
+921795,Male,172,Other,Political Science,31790
+117917,Male,183,Catholic,Biology,54078
+362764,Male,167,Protestant,Economics and Finance,52230
+566262,Female,184,Orthodox,Economics and Finance,44369
+527029,Female,175,Catholic,Economics and Finance,43001
+460855,Female,159,Other,Environmental Sciences,29401
+508696,Male,176,Protestant,Environmental Sciences,38409
+411195,Female,163,Catholic,Social Sciences,26235
+182706,Male,180,Protestant,Environmental Sciences,40913
+287354,Male,190,Catholic,Environmental Sciences,37554
+738972,Male,170,Catholic,Mathematics and Statistics,50361
+146915,Male,173,Muslim,Political Science,36489
+706758,Female,161,Protestant,Political Science,32055
+614482,Female,151,Catholic,Political Science,33607
+976300,Male,180,Other,Political Science,29757
+963345,Male,179,Other,Economics and Finance,47444
+360012,Male,182,Catholic,Environmental Sciences,39359
+812921,Female,157,Catholic,Environmental Sciences,32030
+947765,Male,179,Other,Economics and Finance,55980
+141477,Male,186,Protestant,Political Science,38433
+541567,Male,179,Orthodox,Mathematics and Statistics,39135
+925809,Male,159,Catholic,Economics and Finance,39298
+589796,Female,158,Muslim,Environmental Sciences,37935
+113718,Male,185,Other,Political Science,45158
+443735,Male,183,Catholic,Environmental Sciences,47263
+477621,Male,166,Protestant,Social Sciences,31908
+323485,Male,184,Protestant,Political Science,42573
+394945,Male,195,Orthodox,Biology,50949
+959977,Male,177,Orthodox,Mathematics and Statistics,75597
+367114,Male,172,Protestant,Mathematics and Statistics,41624
+499524,Male,166,Other,Environmental Sciences,34964
+124490,Male,179,Other,Biology,51107
+938711,Male,180,Protestant,Mathematics and Statistics,54441
+909911,Male,180,Other,Mathematics and Statistics,52112
+541717,Male,192,Other,Environmental Sciences,38993
+606478,Male,173,Other,Economics and Finance,48748
+122485,Female,171,Protestant,Political Science,33648
+512012,Female,164,Orthodox,Biology,44829
+665548,Female,179,Other,Political Science,26265
+541466,Female,167,Catholic,Biology,38156
+221190,Female,162,Orthodox,Environmental Sciences,35353
+844385,Male,171,Orthodox,Biology,58512
+299940,Male,170,Catholic,Environmental Sciences,43925
+903936,Male,166,Other,Economics and Finance,41879
+494589,Male,174,Catholic,Mathematics and Statistics,48103
+266701,Male,173,Muslim,Economics and Finance,39053
+676841,Male,174,Other,Environmental Sciences,42546
+728141,Female,152,Protestant,Biology,39369
+424253,Male,193,Muslim,Economics and Finance,48785
+661366,Male,174,Catholic,Political Science,36280
+693691,Male,171,Catholic,Mathematics and Statistics,51752
+975648,Male,187,Orthodox,Environmental Sciences,29668
+921385,Male,171,Catholic,Political Science,33369
+686274,Male,179,Protestant,Environmental Sciences,32395
+640526,Female,171,Catholic,Political Science,28823
+589397,Female,165,Protestant,Mathematics and Statistics,40961
+487096,Female,173,Other,Political Science,19637
+756961,Male,171,Muslim,Environmental Sciences,36439
+950015,Male,185,Other,Biology,60848
+618749,Female,168,Orthodox,Economics and Finance,48651
+249763,Female,159,Protestant,Environmental Sciences,27017
+928145,Female,161,Protestant,Environmental Sciences,35294
+111998,Male,174,Catholic,Environmental Sciences,37364
+898710,Female,156,Catholic,Political Science,29217
+253489,Male,174,Catholic,Political Science,63199
+294686,Male,192,Protestant,Environmental Sciences,40285
+919276,Male,171,Catholic,Biology,41225
+744620,Male,194,Orthodox,Economics and Finance,40318
+436261,Male,173,Other,Mathematics and Statistics,64012
+882620,Male,180,Protestant,Economics and Finance,56732
+523108,Male,178,Protestant,Environmental Sciences,37966
+832761,Female,170,Protestant,Biology,41505
+371542,Male,172,Other,Economics and Finance,58381
+146484,Male,169,Catholic,Mathematics and Statistics,58072
+586084,Male,186,Muslim,Mathematics and Statistics,50913
+377877,Male,183,Other,Biology,45583
+886960,Female,167,Muslim,Economics and Finance,46080
+653023,Female,186,Catholic,Social Sciences,33975
+461824,Female,162,Catholic,Political Science,34299
+553233,Female,154,Other,Social Sciences,22916
+318944,Female,177,Catholic,Biology,45007
+908728,Male,179,Catholic,Mathematics and Statistics,45141
+848785,Female,155,Catholic,Political Science,42236
+127329,Male,177,Other,Economics and Finance,64052
+812904,Female,171,Other,Political Science,28556
+361363,Male,182,Other,Mathematics and Statistics,44504
+517485,Female,171,Catholic,Mathematics and Statistics,26489
+635788,Male,167,Other,Political Science,33318
+280376,Male,177,Other,Mathematics and Statistics,68980
+777815,Male,168,Other,Biology,64486
+343541,Female,169,Catholic,Economics and Finance,40474
+517410,Male,167,Catholic,Biology,60492
+200854,Female,167,Protestant,Environmental Sciences,30741
+824507,Male,180,Protestant,Social Sciences,36227
+944466,Female,145,Other,Biology,38405
+700769,Male,182,Other,Social Sciences,31949
+430239,Male,190,Protestant,Social Sciences,37584
+954089,Female,162,Muslim,Political Science,46945
+176318,Male,176,Catholic,Economics and Finance,54416
+905586,Male,160,Orthodox,Economics and Finance,47418
+495511,Female,164,Catholic,Economics and Finance,45993
+855401,Female,165,Protestant,Economics and Finance,43553
+521046,Female,157,Protestant,Social Sciences,33642
+648340,Male,171,Other,Mathematics and Statistics,43757
+145718,Male,180,Catholic,Biology,48574
+728977,Male,182,Protestant,Biology,56854
+165901,Female,171,Other,Environmental Sciences,30484
+912116,Male,190,Protestant,Mathematics and Statistics,37924
+367512,Male,187,Other,Environmental Sciences,43059
+473274,Male,182,Other,Environmental Sciences,38010
+250523,Female,157,Other,Economics and Finance,40380
+743476,Male,201,Other,Political Science,38824
+578326,Male,187,Catholic,Environmental Sciences,36631
+517832,Male,176,Catholic,Economics and Finance,56870
+473749,Female,145,Protestant,Political Science,47791
+669986,Male,167,Catholic,Political Science,40540
+207149,Male,191,Other,Biology,55657
+841304,Female,165,Protestant,Political Science,42222
+475160,Male,190,Catholic,Mathematics and Statistics,47442
+122162,Female,168,Other,Mathematics and Statistics,36055
+446234,Male,178,Orthodox,Mathematics and Statistics,30414
+407275,Female,157,Protestant,Biology,39041
+969621,Female,166,Orthodox,Social Sciences,26254
+167174,Female,162,Catholic,Mathematics and Statistics,45512
+760133,Male,173,Catholic,Biology,68577
+877191,Female,168,Catholic,Environmental Sciences,34398
+355955,Male,176,Other,Political Science,49104
+165181,Male,176,Protestant,Mathematics and Statistics,35259
+387041,Female,160,Catholic,Environmental Sciences,29539
+632987,Male,178,Catholic,Environmental Sciences,48037
+644178,Male,174,Catholic,Environmental Sciences,41627
+452087,Female,170,Protestant,Political Science,30617
+374737,Female,169,Catholic,Mathematics and Statistics,36708
+637390,Male,178,Protestant,Economics and Finance,65422
+804834,Female,154,Other,Social Sciences,23040
+892039,Male,188,Other,Environmental Sciences,38305
+696684,Male,176,Protestant,Economics and Finance,71468
+486243,Male,181,Catholic,Economics and Finance,36841
+410319,Male,189,Protestant,Economics and Finance,48736
+519478,Male,168,Catholic,Environmental Sciences,34979
+894899,Male,182,Catholic,Mathematics and Statistics,47107
+928126,Male,161,Catholic,Economics and Finance,54631
+656753,Male,164,Other,Environmental Sciences,41309
+230328,Male,170,Orthodox,Biology,56721
+900121,Male,178,Other,Mathematics and Statistics,60676
+792334,Female,160,Other,Political Science,24395
+484480,Female,150,Catholic,Mathematics and Statistics,23867
+202267,Female,164,Catholic,Environmental Sciences,33216
+242731,Male,177,Other,Economics and Finance,57925
+224074,Male,192,Protestant,Political Science,31237
+403401,Male,173,Other,Political Science,37748
+321581,Female,172,Catholic,Political Science,32943
+546482,Male,175,Other,Economics and Finance,50911
+837316,Male,170,Protestant,Social Sciences,38484
+948092,Female,151,Other,Mathematics and Statistics,40804
+567590,Male,177,Protestant,Economics and Finance,57091
+933428,Female,172,Catholic,Biology,36218
+947410,Male,182,Catholic,Economics and Finance,57906
+747054,Male,178,Catholic,Biology,51836
+186245,Male,176,Catholic,Economics and Finance,33688
+559518,Female,167,Other,Economics and Finance,43039
+936921,Male,173,Other,Environmental Sciences,36276
+796433,Female,174,Other,Political Science,26124
+887121,Male,173,Other,Environmental Sciences,35411
+852272,Male,186,Protestant,Social Sciences,37149
+270828,Female,172,Catholic,Social Sciences,35841
+749377,Female,158,Catholic,Social Sciences,24143
+966285,Male,164,Protestant,Social Sciences,35063
+530661,Male,186,Catholic,Mathematics and Statistics,64540
+741263,Female,176,Other,Social Sciences,28825
+862703,Female,172,Other,Political Science,30448
+869741,Male,185,Other,Mathematics and Statistics,59885
+349393,Female,162,Protestant,Biology,37397
+431419,Male,186,Other,Economics and Finance,51401
+827698,Male,175,Catholic,Social Sciences,24315
+135031,Female,174,Other,Political Science,39205
+813705,Male,181,Protestant,Political Science,36856
+555776,Male,180,Catholic,Environmental Sciences,36930
+857556,Male,176,Protestant,Social Sciences,38083
+583767,Female,170,Protestant,Political Science,25608
+373120,Female,167,Catholic,Political Science,31494
+303723,Male,187,Catholic,Mathematics and Statistics,58081
+131435,Male,172,Other,Political Science,44028
+777522,Male,171,Catholic,Environmental Sciences,40008
+393220,Male,188,Other,Environmental Sciences,42894
+240928,Female,169,Other,Economics and Finance,47172
+767035,Male,169,Protestant,Mathematics and Statistics,56558
+199539,Male,199,Other,Political Science,42177
+862492,Male,182,Other,Environmental Sciences,39806
+569422,Female,166,Protestant,Mathematics and Statistics,45625
+696080,Male,162,Orthodox,Economics and Finance,56535
+862277,Male,173,Catholic,Biology,58693
+136060,Male,173,Other,Biology,52316
+298182,Male,184,Protestant,Economics and Finance,59920
+243014,Male,188,Other,Mathematics and Statistics,69351
+471913,Male,173,Catholic,Environmental Sciences,36599
+380497,Male,175,Catholic,Environmental Sciences,37119
+390728,Male,186,Protestant,Biology,42855
+753590,Male,170,Protestant,Political Science,23308
+576315,Female,168,Other,Biology,42347
+813716,Male,168,Muslim,Environmental Sciences,41991
+555969,Female,163,Other,Economics and Finance,37275
+298125,Male,185,Catholic,Political Science,60996
+567950,Male,182,Other,Political Science,42605
+650120,Male,186,Catholic,Social Sciences,25592
+717974,Male,184,Protestant,Economics and Finance,47858
+678552,Male,187,Orthodox,Economics and Finance,58824
+490086,Male,188,Other,Mathematics and Statistics,67278
+631253,Female,159,Other,Economics and Finance,25351
+516155,Female,169,Protestant,Economics and Finance,43667
+619443,Male,183,Catholic,Mathematics and Statistics,44691
+214450,Male,178,Orthodox,Mathematics and Statistics,52722
+795866,Male,176,Catholic,Environmental Sciences,47803
+398273,Male,174,Muslim,Political Science,44386
+292934,Male,175,Protestant,Mathematics and Statistics,57083
+540427,Female,163,Other,Environmental Sciences,32677
+389953,Female,159,Orthodox,Political Science,20336
+447520,Male,182,Catholic,Environmental Sciences,43282
+709085,Female,169,Catholic,Social Sciences,26090
+183618,Male,172,Catholic,Biology,75530
+239313,Female,159,Catholic,Political Science,33955
+743559,Female,174,Other,Mathematics and Statistics,40467
+797914,Male,181,Catholic,Biology,36798
+529140,Male,172,Catholic,Mathematics and Statistics,46349
+547232,Male,182,Catholic,Environmental Sciences,40895
+131152,Male,164,Protestant,Political Science,29999
+834619,Female,161,Muslim,Economics and Finance,53973
+173174,Female,173,Other,Social Sciences,28128
+755108,Male,188,Other,Mathematics and Statistics,48450
+786879,Male,174,Catholic,Environmental Sciences,39145
+718210,Male,173,Protestant,Mathematics and Statistics,53462
+640908,Male,175,Muslim,Mathematics and Statistics,44600
+671620,Female,170,Muslim,Social Sciences,30281
+552687,Female,158,Catholic,Political Science,48667
+671968,Male,182,Other,Mathematics and Statistics,55058
+205083,Male,178,Other,Environmental Sciences,42310
+474060,Male,190,Catholic,Mathematics and Statistics,49115
+409254,Male,175,Other,Environmental Sciences,46162
+371501,Male,173,Other,Biology,57929
+497787,Male,168,Orthodox,Economics and Finance,60676
+367500,Female,145,Catholic,Political Science,23649
+112656,Female,164,Catholic,Environmental Sciences,37144
+812008,Female,160,Catholic,Biology,40189
+669750,Male,189,Muslim,Environmental Sciences,45282
+199840,Male,176,Protestant,Mathematics and Statistics,50827
+594536,Male,171,Catholic,Biology,57560
+177802,Male,174,Other,Political Science,40454
+704791,Female,154,Catholic,Environmental Sciences,40356
+451961,Male,182,Catholic,Environmental Sciences,31608
+906704,Female,162,Other,Environmental Sciences,25979
+831973,Female,152,Protestant,Biology,38722
+962863,Male,193,Catholic,Social Sciences,39124
+425362,Female,170,Other,Social Sciences,32195
+275978,Male,180,Catholic,Social Sciences,32838
+420995,Male,169,Catholic,Economics and Finance,55069
+365756,Male,181,Catholic,Political Science,70932
+128747,Female,170,Other,Mathematics and Statistics,43191
+411343,Male,172,Other,Environmental Sciences,51332
+514641,Female,156,Orthodox,Social Sciences,34374
+518904,Female,168,Catholic,Social Sciences,28338
+941281,Male,186,Catholic,Mathematics and Statistics,61432
+602871,Male,167,Catholic,Environmental Sciences,33960
+143206,Male,178,Other,Environmental Sciences,45734
+429789,Female,162,Other,Social Sciences,30656
+166604,Female,156,Other,Social Sciences,23968
+513336,Female,176,Other,Social Sciences,33716
+756854,Male,187,Catholic,Political Science,55693
+925640,Male,179,Catholic,Biology,67230
+134229,Female,169,Catholic,Mathematics and Statistics,35106
+380644,Male,159,Other,Economics and Finance,52703
+158758,Female,157,Catholic,Economics and Finance,46921
+312277,Female,169,Other,Social Sciences,25759
+822798,Female,162,Muslim,Political Science,27956
+416754,Male,188,Other,Social Sciences,49080
+554629,Male,192,Catholic,Mathematics and Statistics,43295
+385899,Female,148,Other,Political Science,31899
+510347,Female,157,Other,Environmental Sciences,30043
+648615,Female,148,Catholic,Biology,54590
+298512,Male,202,Catholic,Environmental Sciences,36031
+830267,Male,185,Catholic,Political Science,37076
+797044,Female,157,Other,Biology,34841
+564354,Male,166,Protestant,Social Sciences,36758
+950063,Female,176,Protestant,Environmental Sciences,29322
+406538,Female,170,Orthodox,Biology,48936
+350040,Female,156,Other,Political Science,33969
+358005,Male,182,Other,Economics and Finance,42593
+595769,Female,164,Protestant,Biology,39588
+948224,Male,166,Protestant,Political Science,32704
+157233,Male,180,Catholic,Mathematics and Statistics,45926
+413617,Male,188,Protestant,Biology,57165
+473908,Male,182,Catholic,Political Science,43008
+387414,Female,174,Protestant,Biology,40905
+643124,Male,175,Other,Environmental Sciences,43050
+670946,Female,139,Other,Social Sciences,31326
+810071,Male,183,Catholic,Environmental Sciences,39160
+812628,Male,178,Other,Mathematics and Statistics,57318
+288990,Male,174,Orthodox,Mathematics and Statistics,56641
+778740,Male,176,Catholic,Environmental Sciences,41611
+828818,Female,153,Protestant,Environmental Sciences,24383
+513477,Female,157,Protestant,Biology,40779
+511445,Female,167,Other,Biology,29855
+600853,Male,164,Other,Environmental Sciences,41415
+725752,Male,188,Other,Political Science,61664
+526145,Female,159,Protestant,Biology,37653
+282208,Male,193,Orthodox,Economics and Finance,53065
+430350,Female,164,Other,Biology,49621
+795087,Male,178,Orthodox,Economics and Finance,63184
+290953,Male,173,Catholic,Political Science,28928
+186261,Female,160,Catholic,Political Science,34149
+111469,Male,188,Catholic,Biology,52452
+873076,Female,150,Catholic,Environmental Sciences,31387
+350085,Female,160,Other,Political Science,31267
+358742,Female,166,Other,Economics and Finance,43025
+309827,Female,163,Orthodox,Social Sciences,26098
+270572,Female,162,Other,Social Sciences,14709
+699675,Male,178,Protestant,Economics and Finance,54851
+948736,Male,173,Catholic,Mathematics and Statistics,44700
+774391,Male,169,Catholic,Mathematics and Statistics,59879
+308642,Male,174,Catholic,Biology,57805
+154158,Male,174,Protestant,Environmental Sciences,44812
+658578,Male,178,Catholic,Economics and Finance,55083
+361025,Male,167,Orthodox,Environmental Sciences,39497
+677437,Female,151,Protestant,Economics and Finance,56494
+391861,Male,187,Catholic,Social Sciences,29185
+255219,Male,174,Other,Political Science,39563
+460462,Male,183,Catholic,Environmental Sciences,37947
+237621,Male,182,Catholic,Environmental Sciences,42853
+862959,Female,162,Catholic,Environmental Sciences,31661
+709928,Male,179,Catholic,Mathematics and Statistics,52384
+358448,Male,181,Muslim,Mathematics and Statistics,45861
+118420,Female,164,Other,Political Science,19481
+512220,Male,193,Protestant,Mathematics and Statistics,61616
+831252,Female,158,Protestant,Social Sciences,35549
+894097,Female,166,Catholic,Economics and Finance,39037
+476455,Female,163,Other,Social Sciences,32390
+182974,Female,161,Muslim,Social Sciences,34288
+641064,Male,183,Catholic,Mathematics and Statistics,52631
+563388,Female,154,Other,Biology,48970
+380792,Male,179,Catholic,Mathematics and Statistics,45685
+854937,Female,161,Catholic,Mathematics and Statistics,43028
+112287,Male,176,Protestant,Political Science,46075
+978641,Male,176,Other,Biology,46548
+258568,Male,169,Catholic,Political Science,41595
+153742,Female,165,Other,Economics and Finance,44710
+593670,Female,156,Other,Political Science,20223
+160166,Male,170,Catholic,Biology,51514
+308011,Male,178,Catholic,Biology,52239
+809992,Male,186,Catholic,Mathematics and Statistics,49673
+367478,Male,168,Other,Environmental Sciences,38075
+931476,Male,176,Catholic,Mathematics and Statistics,67379
+966520,Male,169,Catholic,Economics and Finance,62038
+195357,Female,152,Protestant,Social Sciences,32104
+203143,Female,158,Protestant,Economics and Finance,47597
+494080,Male,178,Protestant,Mathematics and Statistics,44296
+498623,Female,164,Catholic,Political Science,30395
+224965,Male,167,Protestant,Economics and Finance,57403
+763393,Male,182,Protestant,Economics and Finance,50618
+420250,Male,178,Protestant,Economics and Finance,51564
+879277,Male,174,Muslim,Economics and Finance,39862
+755701,Male,182,Catholic,Biology,49485
+591314,Male,182,Catholic,Environmental Sciences,35065
+362536,Female,168,Other,Political Science,41239
+304227,Male,182,Other,Environmental Sciences,38932
+155294,Female,168,Protestant,Biology,42463
+509437,Male,182,Other,Mathematics and Statistics,55274
+932889,Male,184,Protestant,Mathematics and Statistics,46008
+296396,Female,173,Other,Biology,39224
+313685,Male,177,Protestant,Economics and Finance,46636
+497782,Male,177,Protestant,Economics and Finance,41384
+962233,Male,176,Catholic,Political Science,29758
+859612,Female,170,Orthodox,Political Science,36283
+276165,Male,175,Other,Economics and Finance,59404
+577119,Male,171,Catholic,Social Sciences,33831
+604937,Male,180,Other,Political Science,35945
+764571,Male,180,Protestant,Economics and Finance,69349
+199103,Female,171,Other,Political Science,34750
+247295,Female,162,Other,Biology,45019
+921305,Male,186,Protestant,Environmental Sciences,44984
+846834,Female,173,Other,Environmental Sciences,34775
+645027,Female,156,Other,Political Science,41274
+854188,Male,185,Catholic,Economics and Finance,55861
+273444,Male,191,Other,Environmental Sciences,45851
+648067,Female,174,Catholic,Social Sciences,34849
+632219,Female,142,Muslim,Political Science,29784
+323608,Male,167,Orthodox,Economics and Finance,56720
+786466,Male,172,Protestant,Political Science,43529
+575898,Male,163,Orthodox,Political Science,51908
+178668,Male,181,Orthodox,Environmental Sciences,41264
+405828,Male,190,Protestant,Economics and Finance,42485
+277240,Male,182,Other,Environmental Sciences,43293
+308564,Female,164,Catholic,Social Sciences,31507
+716460,Female,161,Other,Mathematics and Statistics,40168
+929666,Male,173,Catholic,Economics and Finance,50416
+129905,Male,179,Catholic,Economics and Finance,48013
+613716,Male,181,Other,Social Sciences,41042
+390114,Female,158,Catholic,Biology,36683
+144673,Male,168,Other,Economics and Finance,42994
+246679,Female,158,Protestant,Social Sciences,33966
+411602,Male,166,Protestant,Political Science,42407
+513397,Male,167,Orthodox,Environmental Sciences,31189
+258774,Male,195,Orthodox,Economics and Finance,44782
+550820,Male,183,Catholic,Environmental Sciences,38764
+691224,Male,178,Orthodox,Political Science,38472
+268822,Male,191,Catholic,Economics and Finance,41029
+640129,Male,182,Protestant,Biology,55192
+988309,Male,193,Other,Environmental Sciences,35713
+926192,Male,180,Other,Economics and Finance,51207
+941786,Male,200,Catholic,Social Sciences,41981
+210741,Female,156,Other,Political Science,34686
+746550,Male,184,Catholic,Economics and Finance,53988
+322064,Female,148,Protestant,Economics and Finance,35834
+647319,Female,172,Catholic,Biology,31026
+303965,Female,162,Catholic,Biology,42996
+657088,Female,169,Catholic,Biology,35082
+195794,Male,176,Other,Political Science,45853
+974202,Female,176,Orthodox,Social Sciences,33566
+952909,Male,183,Catholic,Mathematics and Statistics,55939
+328026,Female,174,Protestant,Environmental Sciences,33318
+387528,Male,180,Other,Mathematics and Statistics,48231
+287337,Male,185,Other,Mathematics and Statistics,54595
+595874,Female,164,Other,Political Science,23849
+955785,Male,179,Catholic,Environmental Sciences,45277
+137719,Male,188,Catholic,Biology,43965
+835757,Female,172,Protestant,Mathematics and Statistics,35599
+902697,Male,160,Catholic,Environmental Sciences,39704
+730300,Male,192,Other,Political Science,20511
+807518,Male,171,Muslim,Political Science,42065
+944446,Male,186,Other,Economics and Finance,55664
+632912,Male,188,Orthodox,Political Science,48191
+492848,Female,193,Other,Economics and Finance,43142
+816730,Male,166,Orthodox,Environmental Sciences,38747
+283972,Male,184,Protestant,Economics and Finance,44698
+371565,Male,169,Other,Biology,55994
+518182,Male,175,Protestant,Environmental Sciences,37967
+836456,Male,173,Orthodox,Biology,57029
+134081,Male,177,Catholic,Biology,53304
+908969,Female,179,Muslim,Mathematics and Statistics,36600
+755721,Female,147,Catholic,Political Science,30253
+361644,Male,196,Catholic,Political Science,47548
+249189,Female,178,Other,Environmental Sciences,26269
+202012,Male,195,Other,Biology,49941
+211707,Female,162,Muslim,Biology,40860
+481222,Male,171,Protestant,Environmental Sciences,38750
+394205,Female,164,Protestant,Political Science,31332
+937660,Female,166,Other,Social Sciences,36180
+468954,Female,165,Other,Social Sciences,25446
+866648,Male,167,Protestant,Social Sciences,24695
+276036,Male,182,Orthodox,Political Science,44493
+851284,Male,173,Protestant,Environmental Sciences,42235
+749390,Female,166,Catholic,Environmental Sciences,34319
+587073,Female,161,Other,Political Science,30796
+901358,Female,166,Catholic,Biology,42018
+405680,Male,182,Other,Economics and Finance,42211
+480079,Female,147,Other,Social Sciences,24492
+535044,Male,171,Orthodox,Environmental Sciences,32207
+445020,Female,163,Protestant,Environmental Sciences,33035
+908850,Male,182,Catholic,Biology,56318
+928424,Male,183,Protestant,Biology,47244
+152243,Male,181,Other,Mathematics and Statistics,52084
+780968,Male,176,Muslim,Economics and Finance,52876
+482355,Female,160,Catholic,Mathematics and Statistics,40964
+678169,Female,161,Orthodox,Social Sciences,27456
+303490,Male,175,Catholic,Mathematics and Statistics,69521
+230192,Female,150,Catholic,Social Sciences,23044
+622310,Female,160,Other,Biology,50234
+697069,Male,174,Other,Environmental Sciences,44151
+485217,Male,174,Catholic,Economics and Finance,49525
+915805,Male,173,Protestant,Mathematics and Statistics,50475
+922201,Female,168,Catholic,Economics and Finance,43808
+492518,Female,148,Catholic,Economics and Finance,36970
+254487,Female,172,Catholic,Political Science,32656
+639881,Male,186,Other,Economics and Finance,51709
+450846,Female,159,Protestant,Biology,48090
+948456,Male,190,Protestant,Political Science,41387
+935999,Female,159,Catholic,Environmental Sciences,33363
+380980,Female,157,Catholic,Environmental Sciences,32489
+841076,Female,167,Other,Biology,49111
+911287,Female,160,Catholic,Political Science,37810
+770459,Male,184,Other,Environmental Sciences,37669
+318277,Female,154,Orthodox,Environmental Sciences,31983
+384106,Female,167,Catholic,Biology,40593
+124588,Female,155,Protestant,Economics and Finance,44827
+489114,Male,181,Catholic,Social Sciences,50705
+296420,Female,168,Other,Social Sciences,26452
+236613,Male,173,Other,Mathematics and Statistics,52857
+905296,Female,169,Other,Political Science,37240
+699241,Female,160,Protestant,Environmental Sciences,29497
+122995,Male,171,Protestant,Biology,54206
+350566,Female,156,Catholic,Biology,43819
+206009,Male,169,Other,Mathematics and Statistics,48289
+805991,Male,195,Other,Economics and Finance,46284
+384808,Female,161,Catholic,Biology,41494
+671261,Male,173,Catholic,Biology,55485
+726681,Female,156,Protestant,Political Science,43868
+149540,Female,172,Other,Political Science,34492
+186220,Male,180,Catholic,Social Sciences,37259
+559035,Male,174,Protestant,Mathematics and Statistics,50318
+652907,Female,182,Catholic,Social Sciences,31937
+960794,Male,179,Catholic,Mathematics and Statistics,61382
+256839,Male,163,Other,Biology,61102
+839045,Female,160,Protestant,Environmental Sciences,31539
+943880,Male,161,Catholic,Biology,48904
+799064,Male,177,Orthodox,Mathematics and Statistics,54456
+511204,Male,180,Catholic,Political Science,40136
+850877,Male,183,Other,Mathematics and Statistics,51529
+320942,Male,184,Protestant,Political Science,54267
+874605,Male,173,Orthodox,Social Sciences,32209
+385506,Male,175,Catholic,Economics and Finance,52063
+815956,Female,164,Other,Political Science,26951
+384661,Male,180,Protestant,Social Sciences,40319
+316772,Male,172,Other,Social Sciences,37363
+894126,Male,178,Other,Environmental Sciences,42789
+533968,Male,178,Other,Economics and Finance,50226
+131191,Male,178,Orthodox,Economics and Finance,41431
+682706,Female,160,Catholic,Social Sciences,33200
+117866,Male,173,Muslim,Environmental Sciences,44555
+344866,Male,184,Orthodox,Biology,43318
+710898,Female,165,Catholic,Economics and Finance,36104
+680065,Male,167,Catholic,Mathematics and Statistics,57994
+444812,Female,170,Catholic,Political Science,38135
+212520,Male,173,Catholic,Mathematics and Statistics,42836
+250771,Female,169,Catholic,Environmental Sciences,33901
+314391,Male,178,Other,Environmental Sciences,46453
+666519,Female,152,Orthodox,Biology,53632
+378845,Female,163,Other,Environmental Sciences,33305
+253731,Female,159,Other,Environmental Sciences,37804
+729441,Female,167,Orthodox,Political Science,33208
+328337,Female,174,Protestant,Economics and Finance,41316
+493344,Female,149,Other,Political Science,27244
+888237,Male,192,Other,Social Sciences,34460
+410536,Female,160,Other,Social Sciences,30063
+570121,Female,148,Other,Environmental Sciences,31764
+558477,Female,154,Catholic,Biology,40093
+425631,Male,189,Protestant,Environmental Sciences,39814
+335768,Female,169,Other,Social Sciences,31484
+169114,Female,165,Protestant,Political Science,29217
+982773,Male,181,Catholic,Social Sciences,33354
+805375,Male,183,Protestant,Biology,49777
+692003,Female,158,Catholic,Biology,35176
+394257,Male,181,Orthodox,Environmental Sciences,37008
+534172,Male,177,Other,Environmental Sciences,36305
+894127,Female,168,Other,Social Sciences,27632
+685552,Female,167,Other,Environmental Sciences,38400
+902110,Male,180,Protestant,Environmental Sciences,39300
+692008,Female,169,Other,Political Science,35508
+747829,Female,179,Other,Environmental Sciences,30619
+602560,Female,156,Catholic,Political Science,39711
+490824,Male,178,Protestant,Political Science,58613
+594278,Female,167,Catholic,Biology,33693
+812467,Female,159,Protestant,Biology,38480
+641978,Female,158,Muslim,Social Sciences,28125
+234038,Male,189,Other,Environmental Sciences,44726
+808052,Female,171,Catholic,Environmental Sciences,33235
+794258,Male,181,Catholic,Mathematics and Statistics,44989
+442445,Female,164,Orthodox,Biology,47760
+244176,Male,180,Protestant,Mathematics and Statistics,56157
+813501,Female,171,Orthodox,Biology,49111
+164390,Female,151,Orthodox,Economics and Finance,38211
+768807,Female,167,Protestant,Economics and Finance,39261
+245154,Female,158,Other,Biology,36709
+917474,Male,184,Protestant,Environmental Sciences,36534
+848175,Female,156,Catholic,Economics and Finance,38798
+272096,Male,182,Catholic,Economics and Finance,67358
+526366,Male,173,Protestant,Biology,53835
+769418,Male,173,Protestant,Environmental Sciences,31812
+728190,Male,179,Protestant,Environmental Sciences,40203
+882176,Male,175,Other,Social Sciences,37437
+602889,Male,185,Catholic,Political Science,45259
+547699,Female,163,Catholic,Political Science,38608
+495560,Male,187,Orthodox,Political Science,34468
+158550,Male,180,Catholic,Economics and Finance,53340
+846250,Female,168,Catholic,Environmental Sciences,33423
+460655,Male,167,Other,Biology,48746
+488797,Female,158,Orthodox,Biology,41847
+299439,Female,156,Other,Environmental Sciences,35107
+691147,Male,163,Catholic,Economics and Finance,39086
+794662,Male,167,Catholic,Economics and Finance,45894
+658736,Male,174,Other,Mathematics and Statistics,43379
+548221,Female,170,Protestant,Economics and Finance,39415
+750403,Male,178,Other,Mathematics and Statistics,53052
+716746,Male,193,Muslim,Environmental Sciences,31932
+550241,Male,174,Other,Mathematics and Statistics,60086
+325636,Female,145,Other,Environmental Sciences,30973
+346619,Male,190,Catholic,Economics and Finance,49528
+444615,Female,151,Protestant,Social Sciences,36601
+330295,Male,187,Other,Environmental Sciences,37542
+640804,Male,171,Other,Environmental Sciences,34055
+232341,Male,174,Other,Mathematics and Statistics,36558
+159390,Female,178,Catholic,Biology,47227
+684695,Male,174,Other,Economics and Finance,57766
+519924,Male,179,Orthodox,Economics and Finance,39994
+483258,Male,176,Catholic,Economics and Finance,49221
+878293,Male,168,Protestant,Mathematics and Statistics,54146
+618417,Male,184,Muslim,Economics and Finance,47311
+290462,Male,187,Catholic,Environmental Sciences,37692
+311317,Male,177,Protestant,Social Sciences,21722
+195489,Male,183,Orthodox,Political Science,48126
+621166,Female,165,Catholic,Environmental Sciences,34812
+358344,Female,162,Other,Biology,42364
+943870,Male,180,Catholic,Environmental Sciences,47902
+324756,Male,171,Protestant,Mathematics and Statistics,44369
+596678,Male,184,Other,Economics and Finance,41541
+321349,Male,178,Catholic,Economics and Finance,57427
+869069,Male,179,Catholic,Mathematics and Statistics,50330
+532938,Female,160,Protestant,Political Science,31012
+195754,Female,173,Protestant,Economics and Finance,39911
+957866,Male,188,Protestant,Biology,61261
+529167,Male,169,Protestant,Economics and Finance,60101
+492136,Female,170,Muslim,Biology,38189
+659921,Male,198,Catholic,Mathematics and Statistics,70325
+303136,Female,160,Catholic,Biology,52692
+127324,Female,168,Other,Social Sciences,28059
+901238,Female,165,Catholic,Biology,36275
+532690,Female,170,Orthodox,Social Sciences,38738
+801132,Female,160,Muslim,Political Science,35632
+637550,Female,161,Other,Mathematics and Statistics,37710
+681197,Female,171,Catholic,Biology,41375
+394428,Male,179,Other,Political Science,45048
+198288,Female,170,Other,Biology,38492
+275274,Female,159,Catholic,Biology,38747
+750960,Male,175,Other,Economics and Finance,52367
+730186,Female,165,Other,Biology,43287
+918190,Male,178,Protestant,Mathematics and Statistics,45677
+634784,Female,162,Catholic,Political Science,35091
+511967,Male,182,Protestant,Mathematics and Statistics,54681
+948960,Male,177,Other,Economics and Finance,54335
+216220,Female,161,Other,Social Sciences,32462
+587107,Female,164,Catholic,Political Science,43318
+618746,Male,178,Protestant,Social Sciences,40899
+260610,Male,198,Catholic,Mathematics and Statistics,45540
+627885,Male,192,Other,Mathematics and Statistics,49456
+337569,Male,185,Orthodox,Biology,61820
+935907,Male,191,Catholic,Biology,53906
+127622,Female,156,Protestant,Political Science,30327
+914981,Male,182,Catholic,Biology,50671
+334935,Male,156,Catholic,Mathematics and Statistics,46329
+251170,Male,197,Catholic,Economics and Finance,53206
+474850,Female,163,Protestant,Environmental Sciences,29676
+169340,Female,164,Other,Political Science,28321
+205242,Female,155,Protestant,Mathematics and Statistics,33260
+540967,Male,195,Other,Social Sciences,40112
+832270,Male,183,Catholic,Mathematics and Statistics,65013
+396355,Male,157,Other,Biology,37626
+701439,Male,163,Other,Environmental Sciences,37065
+409582,Female,179,Other,Biology,50790
+652632,Male,179,Other,Biology,45584
+173432,Male,180,Other,Economics and Finance,49768
+930584,Female,161,Catholic,Biology,43315
+304871,Male,185,Protestant,Biology,50496
+355031,Male,177,Catholic,Environmental Sciences,46435
+366237,Male,175,Protestant,Social Sciences,27488
+189725,Male,194,Catholic,Environmental Sciences,41135
+392417,Female,152,Orthodox,Political Science,28820
+359665,Male,173,Other,Economics and Finance,46462
+690399,Male,167,Protestant,Political Science,55883
+355269,Female,168,Protestant,Environmental Sciences,30606
+245697,Male,180,Catholic,Environmental Sciences,42793
+182816,Female,166,Protestant,Environmental Sciences,38530
+606531,Female,161,Other,Political Science,20691
+555871,Male,180,Other,Political Science,44242
+575895,Female,165,Protestant,Biology,46576
+599667,Male,180,Catholic,Economics and Finance,72787
+579097,Female,168,Protestant,Biology,39136
+362425,Male,175,Protestant,Biology,53512
+802716,Female,160,Protestant,Social Sciences,26032
+188492,Male,193,Other,Mathematics and Statistics,43797
+520250,Male,188,Catholic,Environmental Sciences,34485
+884495,Male,183,Catholic,Economics and Finance,36806
+616453,Male,187,Catholic,Environmental Sciences,37657
+912000,Female,163,Catholic,Biology,52684
+391689,Male,173,Catholic,Mathematics and Statistics,56954
+425533,Male,178,Orthodox,Social Sciences,36923
+794953,Male,185,Catholic,Environmental Sciences,42623
+229811,Female,164,Catholic,Biology,48098
+842519,Male,170,Protestant,Economics and Finance,39034
+522651,Female,166,Other,Social Sciences,33511
+681365,Male,190,Catholic,Mathematics and Statistics,39112
+120552,Female,157,Catholic,Environmental Sciences,34968
+781388,Male,184,Protestant,Economics and Finance,55899
+261700,Male,178,Protestant,Environmental Sciences,39790
+599119,Male,189,Catholic,Economics and Finance,45135
+199974,Male,177,Muslim,Environmental Sciences,39359
+463967,Male,191,Other,Mathematics and Statistics,50392
+748383,Male,169,Protestant,Environmental Sciences,38183
+299659,Male,190,Protestant,Political Science,39726
+149335,Female,164,Catholic,Environmental Sciences,34279
+117780,Female,171,Other,Biology,38656
+786487,Male,181,Protestant,Mathematics and Statistics,56148
+537342,Male,179,Protestant,Environmental Sciences,48129
+336421,Male,183,Other,Mathematics and Statistics,40152
+337893,Male,176,Protestant,Political Science,38296
+403577,Male,179,Other,Political Science,50765
+111742,Male,186,Protestant,Economics and Finance,46779
+657755,Male,190,Catholic,Economics and Finance,35881
+907903,Male,186,Catholic,Political Science,30375
+913374,Male,169,Catholic,Mathematics and Statistics,38423
+648608,Female,165,Protestant,Environmental Sciences,29892
+679734,Male,173,Catholic,Environmental Sciences,43442
+896546,Male,191,Protestant,Mathematics and Statistics,58612
+224270,Male,176,Orthodox,Political Science,23091
+797792,Male,186,Catholic,Environmental Sciences,42389
+865842,Male,178,Other,Mathematics and Statistics,47001
+712039,Female,168,Catholic,Economics and Finance,42108
+813853,Male,192,Orthodox,Biology,54410
+480495,Male,184,Catholic,Economics and Finance,44606
+882907,Male,175,Other,Biology,47577
+767937,Female,168,Catholic,Social Sciences,34317
+677171,Male,185,Protestant,Biology,61068
+758545,Female,168,Catholic,Environmental Sciences,35207
+242831,Female,178,Catholic,Biology,41079
+482774,Male,185,Other,Biology,43245
+370856,Male,177,Other,Social Sciences,32334
+759358,Female,180,Other,Biology,46319
+775457,Male,180,Orthodox,Mathematics and Statistics,41164
+326380,Male,182,Other,Biology,62479
+793640,Male,175,Catholic,Mathematics and Statistics,40218
+159551,Female,167,Catholic,Biology,45002
+381343,Male,189,Catholic,Political Science,29431
+450126,Male,173,Protestant,Biology,46337
+206222,Male,181,Other,Environmental Sciences,32372
+308916,Male,177,Other,Economics and Finance,50001
+292619,Male,192,Catholic,Environmental Sciences,37136
+146635,Female,169,Protestant,Mathematics and Statistics,41919
+675685,Female,168,Catholic,Political Science,37804
+149982,Male,201,Orthodox,Environmental Sciences,33291
+841869,Male,185,Protestant,Mathematics and Statistics,47977
+631079,Male,167,Protestant,Environmental Sciences,46910
+266916,Female,159,Protestant,Biology,43247
+114130,Male,186,Protestant,Biology,50342
+144309,Male,178,Orthodox,Environmental Sciences,40988
+394142,Male,170,Catholic,Biology,44875
+823214,Male,178,Protestant,Mathematics and Statistics,53315
+329855,Female,157,Catholic,Social Sciences,32343
+601421,Male,197,Catholic,Environmental Sciences,40461
+192380,Male,173,Other,Mathematics and Statistics,41373
+334855,Male,183,Protestant,Biology,56717
+206514,Male,186,Protestant,Biology,49373
+360136,Male,184,Catholic,Economics and Finance,43434
+162969,Female,160,Other,Biology,39338
+443431,Female,170,Muslim,Biology,34871
+659582,Male,186,Other,Biology,52434
+496263,Male,186,Catholic,Mathematics and Statistics,46116
+189421,Female,164,Other,Political Science,41282
+309801,Male,164,Protestant,Biology,51416
+302889,Male,187,Other,Environmental Sciences,43894
+600996,Male,171,Other,Economics and Finance,47258
+988603,Male,187,Catholic,Economics and Finance,49605
+275014,Female,174,Catholic,Political Science,41430
+491938,Female,168,Other,Political Science,37306
+683129,Female,169,Other,Political Science,21000
+808356,Female,166,Catholic,Political Science,34035
+271433,Male,181,Other,Social Sciences,46247
+360430,Female,164,Orthodox,Political Science,30327
+936548,Female,161,Other,Biology,49043
+952649,Male,164,Catholic,Political Science,37820
+153149,Male,169,Other,Biology,53242
+658589,Female,173,Catholic,Social Sciences,37894
+456552,Female,159,Other,Biology,41158
+497075,Female,162,Catholic,Social Sciences,27408
+462992,Male,192,Catholic,Economics and Finance,59288
+266076,Male,168,Catholic,Biology,42951
+644759,Male,167,Catholic,Mathematics and Statistics,51017
+166592,Male,170,Other,Biology,45943
+669688,Male,187,Catholic,Environmental Sciences,37029
+643415,Male,174,Other,Biology,43794
+547207,Male,179,Other,Mathematics and Statistics,50363
+639622,Male,167,Protestant,Economics and Finance,57010
+190974,Female,164,Other,Biology,48552
+783666,Male,189,Other,Biology,56960
+677803,Male,170,Other,Political Science,37224
+193226,Female,164,Catholic,Political Science,53909
+197837,Male,186,Other,Biology,55660
+969474,Female,159,Other,Biology,51964
+531911,Female,156,Catholic,Economics and Finance,37246
+943833,Male,188,Other,Economics and Finance,38433
+706855,Female,171,Catholic,Mathematics and Statistics,45241
+125812,Male,171,Orthodox,Mathematics and Statistics,43564
+436950,Male,178,Other,Biology,51688
+626662,Male,173,Catholic,Biology,36259
+499777,Male,187,Other,Economics and Finance,31971
+219503,Female,172,Other,Political Science,39981
+644535,Male,182,Other,Mathematics and Statistics,53344
+640593,Male,184,Catholic,Social Sciences,24186
+580326,Male,186,Catholic,Economics and Finance,46063
+170052,Male,178,Protestant,Biology,64593
+947879,Male,194,Orthodox,Environmental Sciences,35217
+880649,Female,166,Protestant,Biology,46960
+903420,Male,180,Other,Mathematics and Statistics,30854
+503783,Female,177,Other,Social Sciences,21454
+751742,Female,159,Protestant,Environmental Sciences,34347
+211557,Male,174,Protestant,Mathematics and Statistics,48393
+459508,Female,162,Other,Social Sciences,24289
+712519,Male,170,Other,Political Science,48773
+199151,Male,191,Catholic,Economics and Finance,39831
+222331,Female,183,Protestant,Social Sciences,27885
+217013,Female,168,Catholic,Environmental Sciences,27686
+307406,Male,185,Catholic,Social Sciences,30038
+427905,Male,184,Other,Economics and Finance,55056
+680715,Male,177,Catholic,Mathematics and Statistics,48381
+499198,Male,196,Catholic,Biology,39093
+551154,Male,175,Other,Biology,52645
+615026,Male,181,Other,Environmental Sciences,42091
+668585,Female,152,Catholic,Social Sciences,33078
+312855,Male,171,Other,Biology,60188
